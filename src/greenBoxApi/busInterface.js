@@ -1,4 +1,4 @@
-import { idpInterface } from '../../../blockchain/build/lib/interface_lib';
+import { idpInterface } from 'verde-ethereum/build/lib/interface_lib';
 
 export function approve(data) {
   //check if requestId is for userId
